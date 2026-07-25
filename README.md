@@ -72,6 +72,9 @@ Ejemplo de cuerpo para crear una tarea (`POST /api/tareas`):
 
 ## Estructura del proyecto
 
+este apartado lo agrego para cumplir la hoja de trabajo
+
+
 ```
 src/main/java/com/plusti/practicagit/
 ├── PracticaGitApplication.java   # Clase principal
